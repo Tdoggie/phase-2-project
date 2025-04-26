@@ -1,6 +1,6 @@
 # 🎥 Film Industry Analysis for Business Expansion
 
-This project analyzes various film industry datasets to uncover trends that can guide a company's strategic entry into the entertainment industry. As major corporations turn to original content creation, our company aims to establish a successful movie studio. However, due to limited experience in film production, the business needs insight-driven guidance. This analysis will highlight the most profitable, well-received, and promising areas in film today.
+This project analyses various film industry datasets to uncover trends that can guide a company's strategic entry into the entertainment industry. As major corporations turn to original content creation, our company aims to establish a successful movie studio. However, due to limited experience in film production, the business needs insight-driven guidance. This analysis will highlight the most profitable, well-received, and promising areas in film today.
 
 By integrating multiple datasets from **Box Office Mojo**, **Rotten Tomatoes**, **IMDb**, **TheMovieDB**, and **The Numbers**, we aim to explore current industry patterns to provide actionable recommendations on the types of films the new studio should prioritize.
 
