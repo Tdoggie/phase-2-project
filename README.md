@@ -1,4 +1,4 @@
-# 🎥 Strategic Film Production Through Data Analysis
+# 🎥 Film Industry Analysis for Business Expansion
 
 This project analyzes various film industry datasets to uncover trends that can guide a company's strategic entry into the entertainment industry. As major corporations turn to original content creation, our company aims to establish a successful movie studio. However, due to limited experience in film production, the business needs insight-driven guidance. This analysis will highlight the most profitable, well-received, and promising areas in film today.
 
