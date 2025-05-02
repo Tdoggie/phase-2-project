@@ -68,13 +68,27 @@ This stage is divided into two complementary tracks, both of which are handled c
 - Discusses the limitations of the analysis, such as potential biases in the dataset, missing information, and sampling constraints.  
 - Acknowledges areas where further exploration, data collection, or improved methods could enhance the results.
  
-
-
 ## 📊 Key Visualizations 
+Below are the critical visualizations that helped provide insights into the film industry:
 
+#### 1️⃣ Understanding the Relationship between Genres and Ratings
+
+![Top Genres by Average Rating (Audience vs Critic)](images/v1.png)
+
+#### 2️⃣ Understanding the Relationship between Genre and ROI
+
+![Normalized ROI per Genre](images/v2.png)
+
+#### 3️⃣ Understanding the Relationship between Language and Popularity
+
+![Popularity Distribution by Top 20 Languages](images/v3.png)
+
+#### 4️⃣ Understanding the Relationship between Directors and Worldwide Gross Earnings
+
+![Top 10 Directors by Worldwide Gross](images/v4.png)
 
 ## 📌 Conclusion
-
+Our analysis shows that G-rated and family-friendly films offer the highest ROI, certain genres like Drama and Animation consistently receive strong ratings, and a few key directors drive higher foreign revenue. English remains the dominant language for popular films, but non-English content also shows potential. These insights can help guide data-driven decisions on genre focus, content rating, and director partnerships for a successful market entry.
 
 ## 💻 Technologies Used
 - **Python** - `Pandas`, `Matplotlib`, `Seaborn`, `NumPy`
