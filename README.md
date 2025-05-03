@@ -97,7 +97,7 @@ Our analysis shows that G-rated and family-friendly films offer the highest ROI,
 ## 📂 Repository Structure
 - `ZippedData/` → Folder containing the cleaned datasets used in analysis
 - `scripts/` → Folder containing Script to automatically unzip ZippedData into Data Folder locally 
-- `Data/` → Folder with unzipped data (ignored by Git due to files > 100 MB)
+- `Data/` → Folder with unzipped data (ignored by Git due to .gitignore configuration)
 - `images/` → Folder containing images used throughout the notebook and README.md file
 - `README.md` → This project overview file
 - `index.ipynb` → Jupyter Notebook containing full analysis
